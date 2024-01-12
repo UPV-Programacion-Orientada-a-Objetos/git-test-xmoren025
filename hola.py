@@ -1,6 +1,7 @@
 def hola(nombre):
   print("Hola " + nombre)
-  print("Segunda edición [Corrección]")
+  print("Tercera edición [Terminado]")
 
 hola("Ximena")
+hola("a todos :)")
 
